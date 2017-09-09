@@ -1,0 +1,16 @@
+{
+  "name": "functional-freeze",
+  "version": "1.0.0",
+  "description": "Freeze an object without changing the original argument.",
+  "main": "index.js",
+  "repository": "git@github.com:bcallaars/functional-freeze.git",
+  "author": "Joseph Callaars <joseph@callaa.rs>",
+  "license": "MIT",
+  "dependencies": {
+    "ava": "^0.22.0",
+    "nyc": "^11.2.1"
+  },
+  "scripts": {
+    "test": "nyc ava index.test.js"
+  }
+}
