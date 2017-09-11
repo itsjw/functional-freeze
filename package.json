@@ -1,6 +1,6 @@
 {
   "name": "functional-freeze",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Freeze an object without changing the original argument.",
   "main": "index.min.js",
   "repository": "git@github.com:bcallaars/functional-freeze.git",
@@ -15,6 +15,6 @@
     "minify": "uglifyjs --ecma 5 index.js > index.min.js"
   },
   "devDependencies": {
-    "uglify-es": "^3.1.0"
+    "uglify-js": "^3.1.0"
   }
 }
