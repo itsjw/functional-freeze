@@ -31,4 +31,4 @@ MIT
 
 - Joseph Callaars <joseph@callaa.rs>
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/AEMubo6XgXjBRq7V3urxNFC3/bcallaars/functional-freeze'>  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/AEMubo6XgXjBRq7V3urxNFC3/bcallaars/functional-freeze.svg' /></a>
+
